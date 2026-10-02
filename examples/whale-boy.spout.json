@@ -1,0 +1,38 @@
+{
+  "id": "whale-boy",
+  "displayName": "鲸鱼少年",
+  "description": "银发蓝瞳的鲸鱼少年，深海来的小同伴，披着鲸尾小斗篷。",
+  "license": "LicenseRef-All-Rights-Reserved",
+  "author": "lcq",
+  "version": "1.0.0",
+
+  "motionPreset": "default",
+
+  "poses": {
+    "idle": "previews/idle.gif",
+    "running-right": "previews/running-right.gif",
+    "running-left": "previews/running-left.gif",
+    "waving": "previews/waving.gif",
+    "jumping": "previews/jumping.gif",
+    "failed": "previews/failed.gif",
+    "waiting": "previews/waiting.gif",
+    "running": "previews/running.gif",
+    "review": "previews/review.gif"
+  },
+
+  "motion": {
+    "idle": {
+      "ms": 200,
+      "keys": [
+        { "dy": -3.2, "sy": 0.994, "sx": 1.0024, "angle": -0.9 },
+        { "dy": -6.0, "sy": 0.988, "sx": 1.0048, "angle": -1.5 },
+        { "dy": -6.6, "sy": 0.986, "sx": 1.0056, "angle": -1.2 },
+        { "dy": -5.0, "sy": 0.989, "sx": 1.0044, "angle": -0.4 },
+        { "dy": -2.0, "sy": 0.995, "sx": 1.002, "angle": 0.5 },
+        { "dy": 0.8, "sy": 1.002, "sx": 0.9992, "angle": 1.1 },
+        { "dy": 2.2, "sy": 1.005, "sx": 0.998, "angle": 1.2 },
+        { "dy": 0.9, "sy": 1.002, "sx": 0.9992, "angle": 0.4 }
+      ]
+    }
+  }
+}

@@ -1,0 +1,6 @@
+# 脚本与文档统一用 LF，避免 Windows/Linux 之间的行尾噪音
+* text=auto eol=lf
+*.png binary
+*.webp binary
+*.gif binary
+*.pyc binary
