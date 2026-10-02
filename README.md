@@ -1,4 +1,4 @@
-# spout
+# Spout
 
 **把一堆静态立绘，变成一只能在 DSH 界面里呼吸的宠物。**
 *Turn a folder of static character poses into a living [dsh-pet](https://github.com/zhu1090093659/dsh-web).*
